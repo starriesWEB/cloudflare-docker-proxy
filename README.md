@@ -35,3 +35,9 @@
    };
    ```
 
+---
+1. change `index.js` file `docker.libcuda.so` to your domain
+2. add **cname** mapping worker url
+3. add worker router for your domain
+
+
